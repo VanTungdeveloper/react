@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+}
+
+.bgr{
+    width: 60%;
+    
+}
+
+.bgr > img{
+    width: 100%;
+    height: 530px;
+}
+
+.main-right{
+    width: 28%;
+    padding: 0 20px;
+    height: 530px;
+    background-color: #dedcdd;
+}
+
+.main-list{
+    background-color: #235cc3;
+    color: #fff;
+}
+
+.list{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 16px;
+}
+
+h3{
+    padding-left: 10px;
+}
+
+.list1{
+    width: 50%;
+    padding-left: 10px;
+    
+}
+
+.list2{
+    width: 50%;    
+}
+.list2 > span{
+    color: #d4913a;
+    margin-bottom: 10px;
+}
+
+.main-img{
+    width: 100%;
+}
+
+.main-img > img{
+    width: 100%;
+}
